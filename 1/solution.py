@@ -82,4 +82,4 @@ class Solution:
 
 if __name__ == "__main__":
     with Solution() as solution:
-        print(solution())
+        solution()
